@@ -1,0 +1,3 @@
+/home/catherine/CG2021/321_Chekhonina_z1/CMakeFiles/rebuild_cache.dir
+/home/catherine/CG2021/321_Chekhonina_z1/CMakeFiles/main.dir
+/home/catherine/CG2021/321_Chekhonina_z1/CMakeFiles/edit_cache.dir
